@@ -51,20 +51,17 @@ table {
 .bg-blue {
   background: blue;
 }
-.bg-pink{
-  background: pink;
+.bg-green{
+  background: greenyellow;
 }
-.bg-purple{
-  background: purple;
+.bg-orange{
+  background: orange;
 }
 .box {
   width: 1200px;
   margin: 0 auto;
 }
 
-.float{
-  float: left;
-}
 
 .outline {
   outline: 2px solid red;
@@ -93,4 +90,7 @@ table {
 }
 .h-400 {
   height: 400px;
+}
+.flex {
+  display: flex; 
 }
