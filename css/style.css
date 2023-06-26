@@ -60,7 +60,6 @@ table {
   margin: 0 auto;
 }
 
-
 .outline {
   outline: 2px solid red;
 } 
@@ -89,6 +88,4 @@ table {
 .h-400 {
   height: 400px;
 }
-.flex {
-  display: flex; 
-}
+
